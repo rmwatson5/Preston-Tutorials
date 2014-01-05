@@ -1,0 +1,8 @@
+C:\Users\Robert Watson\Documents\GitHub\Preston-Tutorials\ObjectOrientedIntro\TestPerson\bin\Debug\TestPerson.exe.config
+C:\Users\Robert Watson\Documents\GitHub\Preston-Tutorials\ObjectOrientedIntro\TestPerson\bin\Debug\TestPerson.exe
+C:\Users\Robert Watson\Documents\GitHub\Preston-Tutorials\ObjectOrientedIntro\TestPerson\bin\Debug\TestPerson.pdb
+C:\Users\Robert Watson\Documents\GitHub\Preston-Tutorials\ObjectOrientedIntro\TestPerson\obj\Debug\TestPerson.exe
+C:\Users\Robert Watson\Documents\GitHub\Preston-Tutorials\ObjectOrientedIntro\TestPerson\obj\Debug\TestPerson.pdb
+C:\Users\Robert Watson\Documents\GitHub\Preston-Tutorials\ObjectOrientedIntro\TestPerson\bin\Debug\ObjectOrientedIntro.dll
+C:\Users\Robert Watson\Documents\GitHub\Preston-Tutorials\ObjectOrientedIntro\TestPerson\bin\Debug\ObjectOrientedIntro.pdb
+C:\Users\Robert Watson\Documents\GitHub\Preston-Tutorials\ObjectOrientedIntro\TestPerson\obj\Debug\TestPerson.csprojResolveAssemblyReference.cache

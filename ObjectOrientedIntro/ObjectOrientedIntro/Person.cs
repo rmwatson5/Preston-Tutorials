@@ -15,6 +15,7 @@ namespace ObjectOrientedIntro {
      * maybe a phone number, a gender (sometimes), and many other attributes.
      */
     public class Person {
+        #region Fields (Attributes)
         /*
          * This is a variable (in this case, the variable is a  field). Think of 
          * this as an attribute to a class. When creating fields and such it is
@@ -44,7 +45,9 @@ namespace ObjectOrientedIntro {
          * both.
          */
         private Gender _gender;
+        #endregion
 
+        #region Constructor
         /*
          * This here is called a constructor. This is used to make instantiate the
          * Person class. When you create an instance of the person class you are only
@@ -67,7 +70,17 @@ namespace ObjectOrientedIntro {
             _age = age;
             _gender = gender;
         }
+        #endregion
 
+        #region Methods
+        /*
+         * Here is the third main part to a class - the methods. These are used to 
+         * obtain knowledge about the class or set the attributes. But you can do 
+         * so many more things with a method than just that. 
+         * 
+         * I created setters and getters for each of the attributes except one.
+         * Try creating a getGender() method.
+         */
         public void setName(string name) {
             _name = name;
         }
@@ -84,11 +97,20 @@ namespace ObjectOrientedIntro {
             return _age;
         }
 
+        public void setGender(Gender gender) {
+            _gender = gender;
+        }
+        #endregion
+
+        /*
+         * Now that we have created a basic class, go on over to the 
+         * TestPerson project to see the output.
+         */
 
     }
 
     public enum Gender {
         Male = 0,
-        Female
+        Female = 1
     }
 }
