@@ -1,0 +1,5 @@
+C:\Users\Robert Watson\Documents\Visual Studio 2012\Projects\ObjectOrientedIntro\ObjectOrientedIntro\bin\Debug\ObjectOrientedIntro.dll
+C:\Users\Robert Watson\Documents\Visual Studio 2012\Projects\ObjectOrientedIntro\ObjectOrientedIntro\bin\Debug\ObjectOrientedIntro.pdb
+C:\Users\Robert Watson\Documents\Visual Studio 2012\Projects\ObjectOrientedIntro\ObjectOrientedIntro\obj\Debug\ObjectOrientedIntro.csprojResolveAssemblyReference.cache
+C:\Users\Robert Watson\Documents\Visual Studio 2012\Projects\ObjectOrientedIntro\ObjectOrientedIntro\obj\Debug\ObjectOrientedIntro.dll
+C:\Users\Robert Watson\Documents\Visual Studio 2012\Projects\ObjectOrientedIntro\ObjectOrientedIntro\obj\Debug\ObjectOrientedIntro.pdb
