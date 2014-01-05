@@ -23,5 +23,8 @@ If you want to create apps in C#, check out Xamarin. This way, you dont have to 
 Heres the link:
 http://xamarin.com/download
 
+Heres a link to add Facebook to your Xamarin account:
+https://components.xamarin.com/view/facebook-sdk
+
 If you want to develop video games, check out Unity. I have the crack files if you want the full download rather than just evaluation:
 http://unity3d.com/unity/download
